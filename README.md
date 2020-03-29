@@ -10,7 +10,7 @@ Objective was to use CRUD methods to create, read, update, and delete with a rou
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:2319`
+2. Navigate to `localhost:8080`
 
 ## Credit
 
