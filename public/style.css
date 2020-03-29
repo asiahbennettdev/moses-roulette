@@ -1,0 +1,36 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: #316333;
+}
+img{
+  height: 500px;
+}
+#gameBody{
+  background-color: #316333;
+}
+header{
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  height: 302px;
+  background-color: #1e1e1e;
+}
+#rWheel{
+  height: 300px;
+}
+section{
+  display: flex;
+  justify-content: center;
+}
+@font-face {
+  font-family: 'kenya';
+  src:url(ken.ttf);
+  font-style: normal;
+  font-weight: 100;
+}
+h1{
+  font-family: kenya;
+  font-size: 50px
+
+}
